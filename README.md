@@ -1,5 +1,5 @@
-# Project Name
-> Skin cancer classification-CNN
+# Skin cancer classification-CNN
+> This project is about classifying the skin disease images correctly
 
 
 ## Table of Contents
